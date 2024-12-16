@@ -69,7 +69,7 @@ docker stop links && docker rm links && docker run -d -p 4000:4000 -v /absolute/
 ---
 
 Special Thanks to [Rohit Motwani](https://github.com/rohittm) for configuring **Nodemon** and making it up and running with his geeky mind, [Hitanshu Sahu](https://www.behance.net/phantomcluster) for improving the design with his awesome UI skills and [Nelson Dane](https://github.com/NelsonDane) for making this compatible with [Docker](https://docker.com/)
-
+ 
 ### License
 
 The contents of this repository are licensed under the [GNU General Public License v2.0](https://github.com/harsh98trivedi/Links/blob/master/LICENSE)
