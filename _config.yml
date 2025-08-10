@@ -35,7 +35,7 @@ links:
   - Name: Etsy
     URL: https://www.etsy.com/shop/JackAceStudios
     Color: '#f56024'
-    Icon-Class: fas fa-shopping-cart
+    Icon-Class: fab fa-etsy
 
     # YOUTUBE
   - Name: JackAce YouTube
